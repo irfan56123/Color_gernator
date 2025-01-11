@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+div {
+    border: black solid 2px;
+    height: 300px;
+    width: 200px;
+    margin: auto;
+}
